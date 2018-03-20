@@ -1,4 +1,4 @@
-# IBM Cloud explorer
+# IBM Cloud service explorer
 
 This utility provides quick access to IBM Cloud / Cloud Foundry service credentials from any Python notebook.
 
