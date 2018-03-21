@@ -1,6 +1,6 @@
 # IBM Cloud service explorer
 
-This utility provides quick access to IBM Cloud / Cloud Foundry service credentials from any Python 2.7/3.x notebook in local or Cloud environments. Take a look at the [sample notebook](notebooks/browse_cf_services.ipynb) to learn more about how to access the app or learn more about the app [here](https://medium.com/ibm-watson-data-lab/quick-access-to-ibm-cloud-service-credentials-from-a-python-notebook-1f39ee2aa4f3)
+This utility provides quick access to IBM Cloud / Cloud Foundry service credentials from any Python 2.7/3.x notebook in local or Cloud environments. Take a look at the [sample notebook](notebooks/browse_cf_services.ipynb) to learn more about how to access the app or [learn more about the app](https://medium.com/ibm-watson-data-lab/quick-access-to-ibm-cloud-service-credentials-from-a-python-notebook-1f39ee2aa4f3).
 
 ## Getting started
 
